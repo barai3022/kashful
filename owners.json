@@ -1,4 +1,57 @@
 {
-      "flat" : "5B",
-      "name" : "Md Monjur Alam",
+  "name" : "Kashful Neibourhood",
+  "address" : "Metro City",
+ 
+  "members" : [
+    {
+      "flat" : "1A",
+      "name" : "Someone 1",
     },
+    {
+      "flat" : "1B",
+      "name" : "Someone 2",
+    },
+        {
+      "flat" : "2A",
+      "name" : "Someone 3",
+    },
+        {
+      "flat" : "2B",
+      "name" : "Someone 4",
+    },
+        {
+      "flat" : "3A",
+      "name" : "Someone 5",
+    },
+        {
+      "flat" : "3B",
+      "name" : "Someone 6",
+    },
+        {
+      "flat" : "4A",
+      "name" : "Someone 7",
+    },
+        {
+      "flat" : "4B",
+      "name" : "Someone 8",
+    },
+        {
+      "flat" : "5A",
+      "name" : "Someone 9",
+    },
+        {
+      "flat" : "5B",
+      "name" : "Someone 10",
+    },
+        {
+      "flat" : "6A",
+      "name" : "Someone 11",
+    },
+    {
+      "flat" : "6B",
+      "name" : "Someone 12",
+    },
+  ]{
+      "flat" : "7A",
+      "name" : "Someone 13",
+    }
