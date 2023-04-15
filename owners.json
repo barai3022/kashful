@@ -1,4 +1,4 @@
-{
+[{
   "name" : "Kashful Neibourhood",
   "address" : "Metro City",
  
@@ -51,7 +51,7 @@
       "flat" : "6B",
       "name" : "Someone 12",
     },
-  ]{
+  {
       "flat" : "7A",
       "name" : "Someone 13",
-    }
+    }]
